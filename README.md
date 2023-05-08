@@ -50,4 +50,6 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/HenryAreiza/HenryAreiza/output/github-contribution-grid-snake-dark.svg">
 </picture>
 
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
 ###
