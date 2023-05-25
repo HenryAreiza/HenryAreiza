@@ -26,11 +26,17 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/henry-areiza-a3692b114" target="_blank">
+  <a href="https://www.linkedin.com/in/henry-areiza-a3692b114/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+  <a href="mailto:henryareiza2493@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=GMAIL&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
   <a href="https://www.youtube.com/channel/UCbPuDEcfkkhhtJteopKxsXw" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
+  </a>
+  <a href="https://scholar.google.es/citations?user=ZbYnd0cAAAAJ&hl" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Scholar&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="scholar"  />
   </a>
 </div>
 
