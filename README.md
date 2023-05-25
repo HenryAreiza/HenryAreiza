@@ -2,26 +2,19 @@
 
 ###
 
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenryAreiza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=HenryAreiza&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img height="130" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966"  />
 </div>
 
 ###
 
-<div align="center">
-  <a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
-  <a href="https://pytorch.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a>
-  <a href="https://github.com/google/trax" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1024px-Google_JAX_logo.svg.png" alt="trax" height="42px"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
-  <a href="https://fr.mathworks.com/products/matlab.html" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" height="42px"/> </a>
-  <a href="https://www.linux.org/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="42px"/> </a> 
-  <a href="https://www.raspberrypi.org/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="42px"/> </a> 
-  <a href="https://www.arduino.cc/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" height="42px"/> </a> 
-  <a href="https://inkscape.org/es/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape" height="42px"/> </a>
-</div>
+
+I define myself as an artificial intelligence (AI) enthusiast, continuously fueled by the passion for exploring the latest advancements within this field. With a strong academic background and an unwavering curiosity, I have actively participated in diverse research projects focused on leveraging AI for the development of biomedical applications. Equipped with a PhD in Computer Science, I am driven by the desire to create innovative and impactful solutions to real-world challenges. My expertise lies in developing and implementing machine learning techniques, deep learning models, computer vision algorithms, and signal processing workflows. My ultimate goal is to redefine the boundaries of AI's potential and make meaningful contributions to the advancement of cutting-edge technologies that enable us to progress as a society in harmony with nature.
 
 ###
+
+
 <br clear="both">
 
 <div align="center">
@@ -41,22 +34,25 @@
 
 ###
 
+
 <div align="center">
-  <img height="130" src="https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966"  />
+  <a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
+  <a href="https://pytorch.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a>
+  <a href="https://github.com/google/trax" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1024px-Google_JAX_logo.svg.png" alt="trax" height="38px"/> </a>
+  <a href="https://www.tensorflow.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
+  <a href="https://fr.mathworks.com/products/matlab.html" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" height="42px"/> </a>
+  <a href="https://www.linux.org/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="42px"/> </a> 
+  <a href="https://www.raspberrypi.org/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="raspberrypi" height="42px"/> </a> 
+  <a href="https://www.arduino.cc/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" alt="arduino" height="42px"/> </a> 
+  <a href="https://inkscape.org/es/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" alt="inkscape" height="42px"/> </a>
 </div>
 
 ###
 
-I define myself as an artificial intelligence (AI) enthusiast, continuously fueled by the passion for exploring the latest advancements within this field. With a strong academic background and an unwavering curiosity, I have actively participated in diverse research projects focused on leveraging AI for the development of biomedical applications. Equipped with a PhD in Computer Science, I am driven by the desire to create innovative and impactful solutions to real-world challenges. My expertise lies in developing and implementing computer vision algorithms, machine learning models, deep learning techniques, and signal processing workflows. My ultimate goal is to redefine the boundaries of AI's potential and make meaningful contributions to the advancement of cutting-edge technologies that enable us to progress as a society in harmony with nature.
-
-###
 
 <h2 align="left">🔧 My technical skills include:</h2>
 
-###
-
-
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="180px"/>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="170px"/>
 
 <p align="left">Programming languages: Python<br>Machine learning and deep learning frameworks: PyTorch, Trax,  TensorFlow<br>Computer vision libraries: OpenCV<br>Image processing, feature extraction and classification<br>Object detection, tracking, and recognition<br>Biomedical signal processing</p>
 
@@ -65,21 +61,24 @@ I define myself as an artificial intelligence (AI) enthusiast, continuously fuel
 
 <h2 align="right">🌱 I'm currently learning:</h2>
 
-###
-
-<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212284145-bf2c01a8-c448-4f1a-b911-996024c84606.gif" height="190px"/>
+<img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="170px"/>
 
 <p align="right">Data science for business<br>Cloud computing<br>ML models deployment and Edge computing<br>Containerization<br>Advanced deep learning techniques<br>Reinforcement learning<br>History of Philosophy</p>
 
 ###
 
+
 <h2 align="left">🤝 I'm open to:</h2>
+
+<p align="left">Collaborating on open-source projects related to computer vision, machine learning and AI in general.<br>Connecting with other professionals and enthusiasts in the field.<br>Sharing my knowledge and learning from others through discussions, articles, and tutorials.</p>
 
 ###
 
-<p align="left">Collaborating on open-source projects related to computer vision, machine learning and AI in general<br>Connecting with other professionals and enthusiasts in the field<br>Sharing my knowledge and learning from others through discussions, articles, and tutorials</p>
 
-<p align="left">💼 Check out my repositories below to see some of the projects I've worked on. Don't hesitate to reach out if you have any questions or suggestions. Let's create amazing things together!</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HenryAreiza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=aura&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=HenryAreiza&locale=en&mode=daily&theme=aura&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+</div>
 
 ###
 
@@ -95,3 +94,6 @@ I define myself as an artificial intelligence (AI) enthusiast, continuously fuel
 _generated with [Platane/snk](https://github.com/Platane/snk)_
 
 ###
+
+
+<p align="left">💼 Check out my repositories below to see some of the projects I've worked on. Don't hesitate to reach out if you have any questions or suggestions. Let's create amazing things together!</p>
