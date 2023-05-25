@@ -38,7 +38,7 @@ I define myself as an artificial intelligence (AI) enthusiast, continuously fuel
 <div align="center">
   <a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="42px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
   <a href="https://pytorch.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a>
-  <a href="https://github.com/google/trax" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1024px-Google_JAX_logo.svg.png" alt="trax" height="36px"/> </a>
+  <a href="https://github.com/google/trax" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1024px-Google_JAX_logo.svg.png" alt="trax" height="34px"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
   <a href="https://fr.mathworks.com/products/matlab.html" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" alt="matlab" height="42px"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" height="42px"/> </a> 
@@ -63,7 +63,7 @@ I define myself as an artificial intelligence (AI) enthusiast, continuously fuel
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="200px"/>
 
-<p align="right">Data science for business<br>Cloud computing<br>ML models deployment and Edge computing<br>Containerization<br>Advanced deep learning techniques<br>Reinforcement learning<br>History of Philosophy<br>Italian language<br>Playing the guitar<br>Capoeira</p>
+<p align="right">Data science for businesses<br>Cloud computing<br>ML models deployment and Edge computing<br>Containerization<br>Advanced deep learning techniques<br>Reinforcement learning<br>History of Philosophy<br>Italian language<br>Playing the guitar<br>Capoeira</p>
 
 ###
 
