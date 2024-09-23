@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋! My name is Henry and I'm excited to share my work with you! 😁</h1>
+<h1 align="center">Hi 👋! Welcome to my workspace! 😁</h1>
 
 ###
 
@@ -8,7 +8,7 @@
 
 ###
 
-I define myself as an enthusiast for artificial intelligence (AI), continuously fueled by the passion for exploring the latest advancements within this field. My expertise lies in the development and implementation of all kinds of machine learning and deep learning techniques, focusing lately in the area of natural language processing (NLP) after the great arrival of large language models (LLM). Additionally, thanks to my PhD degree in computer sciences, I have had the opportunity to participat in diverse research projects focused on leveraging AI for the development of biomedical applications. I am driven by the desire to create innovative and impactful solutions to real-world challenges, so my ultimate goal is to redefine the boundaries of AI's potential and make meaningful contributions to the advancement of technology to progress as a society in harmony with nature.
+I define myself as an enthusiast for artificial intelligence (AI), continuously fueled by the passion for exploring the latest advancements within this field. My expertise lies in the development and implementation of all kinds of machine learning and deep learning techniques, focusing lately in the area of natural language processing (NLP) after the great arrival of large language models (LLM). Additionally, thanks to my PhD degree in computer sciences, I have had the opportunity to participate in diverse research projects focused on leveraging AI for the development of real-world applications. My ultimate goal is to redefine the boundaries of AI's potential and make meaningful contributions to the advancement of technology to progress as a society in harmony with nature.
 
 ###
 
@@ -35,7 +35,7 @@ I define myself as an enthusiast for artificial intelligence (AI), continuously 
   <a href="https://www.python.org" target="_blank"><img align="center" alt="Python" height ="46px" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/python/python.svg"></a>
   <a href="https://huggingface.co" target="_blank"><img align="center" alt="HuggingFace" height ="46px" src="imgs/hf-logo.png"></a>
   <a href="https://openai.com" target="_blank"><img align="center" alt="OpenAI" height ="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/ChatGPT_logo.svg/2048px-ChatGPT_logo.svg.png"></a>
-  <a href="https://streamlit.io" target="_blank"><img align="center" alt="Streamlit" height ="36px" src="https://seeklogo.com/images/S/streamlit-logo-1A3B208AE4-seeklogo.com.png"></a>
+  <a href="https://flet.dev/" target="_blank"><img align="center" alt="Flet" height ="46px" src="https://media.dev.to/cdn-cgi/image/width=1080,height=1080,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fiwcjrl1a5uysgjy9vei1.png"></a>
   <a href="https://pytorch.org/" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/pytorch/pytorch.svg" alt="pytorch" height="42px"/> </a>
   <a href="https://github.com/google/trax" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/1024px-Google_JAX_logo.svg.png" alt="trax" height="34px"/> </a>
   <a href="https://www.tensorflow.org" target="_blank"> <img align="center" src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/tensorflow/tensorflow.svg" alt="tensorflow" height="42px"/> </a>
@@ -55,7 +55,7 @@ I define myself as an enthusiast for artificial intelligence (AI), continuously 
 
 <p align="left">Programming languages: Python, HTML, CSS, Matlab, C++, R<br>
                 Deep learning frameworks: PyTorch, Trax,  TensorFlow<br>
-                Python libraries and frameworks: LangChain, Streamlit, OpenCV...<br>
+                Python libraries and frameworks: LangChain, Flet, Streamlit, OpenCV...<br>
                 Natural language processing (NLP)<br>
                 Large Language Models (LLM)<br>
                 Image processing, feature extraction and classification<br>
@@ -71,14 +71,14 @@ I define myself as an enthusiast for artificial intelligence (AI), continuously 
 
 <img align="left" alt="GIF" src="https://user-images.githubusercontent.com/74038190/212741999-016fddbd-617a-4448-8042-0ecf907aea25.gif" height="200px"/>
 
-<p align="right">Data science for businesses<br>Cloud computing<br>ML models deployment and Edge computing<br>Containerization<br>Advanced deep learning techniques<br>Reinforcement learning<br>History of Philosophy<br>Italian language<br>Playing the guitar<br>Capoeira</p>
+<p align="right">Data science for businesses<br>Cross-platform app development<br>ML models deployment and Edge computing<br>Advanced deep learning techniques<br>Reinforcement learning<br>History of Philosophy<br>Italian language<br>Playing the guitar<br>Capoeira</p>
 
 ###
 
 
 <h2 align="left">🤝 I'm open to:</h2>
 
-<p align="left">Collaborating on open-source projects related to NLP, computer vision, machine learning and AI in general.<br>Connecting with other professionals and enthusiasts in the field.<br>Sharing my knowledge and learning from others through discussions, articles, and tutorials.</p>
+<p align="left">Collaborate on open-source projects related to NLP, computer vision, machine learning and AI in general.<br>Connecting with other professionals and enthusiasts in the field.<br>Sharing my knowledge and learning from others through discussions, articles, and tutorials.</p>
 
 ###
 
